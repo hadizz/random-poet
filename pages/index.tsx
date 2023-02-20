@@ -8,7 +8,7 @@ export default function Home() {
                 <meta name="description" content="شعر رندوم آنلاین | random persian poet"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
             </Head>
-            <div>hi</div>
+            <div className='container'>hi</div>
         </>
     )
 }
